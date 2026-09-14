@@ -1,3 +1,28 @@
+# 👋 Hi, I'm Shahid Majgaonkar
+
+### 💻 Computer Science & Engineering (AI & ML) Student
+
+I'm a final-year Computer Science and Engineering student specializing in
+Artificial Intelligence & Machine Learning, interested in software development,
+Python, Django, and building real-world applications.
+
+- 🎓 Final-year CSE (AI & ML) student
+- 🌱 Currently learning: Django, SQL & Backend Development
+- 💻 Interested in: Software Development, AI & ML
+- 🚀 Building practical projects to strengthen my development skills
+
+## 🚀 Featured Project
+
+### Ledgerly — Billing & Invoice Management System
+
+A Django-based billing and invoice management system for creating, managing,
+searching and tracking customer invoices.
+
+**Tech:** Python · Django · HTML · CSS · SQLite
+
+
+### ✈️ Flight Finder
+A Python-based flight search application that helps users find available flights based on their travel requirements.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah_idmj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shahid Majgaonkar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@shahidmajgaonkar4408) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:majgaonkarshahid786@gmail.com) 
